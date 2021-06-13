@@ -1,1 +1,1 @@
-This is my first git project.
+This is Aldis's first git project!
